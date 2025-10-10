@@ -1,5 +1,6 @@
 # List of valuable resources:
-## 📚 [Books](#books)
+## :books: [Books](#books)
+## :information_desk_person: [People](#people)
 
 
 
