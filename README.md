@@ -16,3 +16,4 @@
 - [*Vlad Mihalcea*](https://www.linkedin.com/in/vladmihalcea/) - Database, ORM
 - [*Alberto Brandolini*](https://www.linkedin.com/in/brando/) - DDD
 - [*Vaughn Vernon*](https://www.linkedin.com/in/vaughnvernon/) - DDD
+- [*Oskar Dudycz*](https://www.linkedin.com/in/oskardudycz/) - Event-driven Architecture
