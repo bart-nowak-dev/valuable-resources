@@ -10,6 +10,7 @@
 - [*Working Effectively with Legacy Code*](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 - [*Java Persistence with Spring Data and Hibernate*](https://www.manning.com/books/java-persistence-with-spring-data-and-hibernate)
 - [*Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions*](https://www.amazon.pl/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+- [*Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale*](https://www.amazon.com/dp/B09L6KLWDG?ref=ppx_yo2ov_dt_b_fed_digi_asin_title_351)
 - [*Practical process automation*](https://www.amazon.pl/Practical-Process-Automation-Orchestration-Microservices/dp/149206145X)
 
 # People
